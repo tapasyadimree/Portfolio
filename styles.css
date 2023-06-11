@@ -1,0 +1,46 @@
+
+
+.fs-4{
+    font-size: 2rem!important;
+    font-weight: 800;
+}
+
+.nav{
+    font-size: 1.25rem;
+}
+
+.text-body-emphasis {
+    color: #112D4E!important;
+}
+
+.lead{
+    font-size: xx-large;
+    font-weight: 400;
+    color: #3F72AF;
+}
+
+#AboutMe, #Contact-body{
+    font-size: x-large;
+}
+
+.contact-icons{
+    height: 2rem;
+    margin-right: 20px;
+}
+
+#contact-heading{
+    font-size: 2rem;
+    color: #112D4E;
+    font-weight: 700;
+}
+
+.Contact-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#contact-text{
+    margin-top: 25px;
+    font-size: x-large;
+}
